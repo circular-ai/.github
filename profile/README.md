@@ -11,7 +11,8 @@
 
 `+` to be implemented
 
-![Architecture](https://github.com/justchrister/circular/blob/54e460041e632fdd452e7c5528d83fafad65cfd6/architecture.png)
+![Architecture](https://github.com/circular-ai/.github/blob/main/architecture.png)
+
 
 
 ## Repo
